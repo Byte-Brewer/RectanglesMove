@@ -1,9 +1,9 @@
 # RectanglesMove
 
-## open terminal 
+### open terminal 
 
-## cd Documents/ 
+### cd Documents/ 
 
-## git clone https://github.com/Pivowar2009/RectanglesMove.git
+### git clone https://github.com/Pivowar2009/RectanglesMove.git
 
-## open AnimateRectanglesPartOne.xcodeproj
+#### open AnimateRectanglesPartOne.xcodeproj
